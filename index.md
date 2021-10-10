@@ -6,10 +6,10 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
+(10/05/2021) one_week_menu_memo was updated!
+
 (10/01/2021) Instant_DrumPad series was fixed!
 
 (09/28/2021) one_week_menu_memo was updated!
-
-(09/22/2021) MTG card & wiki Viewer was updated!
 
 <a class="twitter-timeline" href="https://twitter.com/chikaharu11?ref_src=twsrc%5Etfw">Tweets by chikaharu11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
