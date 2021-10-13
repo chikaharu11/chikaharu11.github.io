@@ -15,7 +15,9 @@ current status
 my Apps quote
 
 https://www.sozaiyakoaki.com
+
 https://icooon-mono.com
+
 https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download
 
 <a class="twitter-timeline" href="https://twitter.com/chikaharu11?ref_src=twsrc%5Etfw">Tweets by chikaharu11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
