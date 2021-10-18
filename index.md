@@ -6,11 +6,11 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
+(10/12/2021) one_week_menu_memo was updated!
+
 (10/05/2021) one_week_menu_memo was updated!
 
 (10/01/2021) Instant_DrumPad series was fixed!
-
-(09/28/2021) one_week_menu_memo was updated!
 
 my Apps quote
 
