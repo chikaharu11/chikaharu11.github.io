@@ -6,11 +6,11 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
+(11/23/2021) Japanese Food recipes & memo was updated!
+
 (10/30/2021) Instant_DrumPad_Drums was updated!
 
 (10/30/2021) Instant_DrumPad_TR-808 was updated!
-
-(10/27/2021) MTG card & wiki Viewer was updated!
 
 my Apps quote
 
