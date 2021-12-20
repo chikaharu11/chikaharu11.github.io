@@ -20,4 +20,6 @@ https://icooon-mono.com
 
 https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download
 
+<div>Icons made by <a href="" title="Royyan Wijaya">Royyan Wijaya</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 <a class="twitter-timeline" href="https://twitter.com/chikaharu11?ref_src=twsrc%5Etfw">Tweets by chikaharu11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
