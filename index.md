@@ -12,7 +12,7 @@ current status
 
 (11/23/2021) Japanese Food recipes & memo was updated!
 
-my Apps quote
+my Apps quotes
 
 https://www.sozaiyakoaki.com
 
