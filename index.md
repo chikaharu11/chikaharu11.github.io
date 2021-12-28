@@ -6,11 +6,11 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
+(12/14/2021) Instant Drum Pad TR-808 was updated!
+
 (12/04/2021) Card Random was updated!
 
 (12/04/2021) MTG card & wiki Viewer was updated!
-
-(11/23/2021) Japanese Food recipes & memo was updated!
 
 my Apps quotes
 
