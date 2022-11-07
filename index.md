@@ -6,7 +6,7 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(10/10/2022) TR-808 Drum Pad Beat maker was updated!
+(11/04/2022) TR-808 Drum Pad Beat maker was updated!
 
 (03/16/2022) Drum Pad Beat maker series was updated!
 
@@ -22,4 +22,4 @@ https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-
 
 <div>Icons made by <a href="" title="Royyan Wijaya">Royyan Wijaya</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-<a class="twitter-timeline" href="https://twitter.com/chikaharu11?ref_src=twsrc%5Etfw">Tweets by chikaharu11</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/TR_808_Beats?ref_src=twsrc%5Etfw">Tweets by TR_808_Beats</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
