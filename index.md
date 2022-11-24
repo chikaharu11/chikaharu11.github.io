@@ -6,7 +6,7 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(11/17/2022) TR-808 Drum Pad Beat maker was updated!
+(11/23/2022) TR-808 Drum Pads & Sequencer was updated!
 
 (03/16/2022) Drum Pad Beat maker series was updated!
 
