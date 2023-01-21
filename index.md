@@ -6,9 +6,9 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(11/28/2022) TR-808 Drum Pads & Sequencer was updated!
+(01/19/2023) TR-808 Drum Pads & Sequencer was updated!
 
-(03/16/2022) Drum Pad Beat maker series was updated!
+(03/15/2022) MTG Card & Wiki Viewer was updated!
 
 (03/15/2022) Japanese Food recipes & memo was updated!
 
