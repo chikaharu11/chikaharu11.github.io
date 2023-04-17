@@ -6,7 +6,7 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(02/25/2023) TR-808 Drum Pads & Sequencer was updated!
+(04/15/2023) TR-808 Drum Pads & Sequencer was updated!
 
 (03/15/2022) MTG Card & Wiki Viewer was updated!
 
