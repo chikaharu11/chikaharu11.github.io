@@ -10,8 +10,6 @@ current status
 
 (03/15/2022) MTG Card & Wiki Viewer was updated!
 
-(03/15/2022) Japanese Food recipes & memo was updated!
-
 my Apps quotes
 
 https://www.sozaiyakoaki.com
