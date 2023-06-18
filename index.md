@@ -6,9 +6,7 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(04/15/2023) TR-808 Drum Pads & Sequencer was updated!
-
-(03/15/2022) MTG Card & Wiki Viewer was updated!
+(06/17/2023) TR-808 Drum Pads & Sequencer was updated!
 
 my Apps quotes
 
@@ -20,4 +18,4 @@ https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-
 
 <div>Icons made by <a href="" title="Royyan Wijaya">Royyan Wijaya</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
-<a class="twitter-timeline" href="https://twitter.com/TR_808_Beats?ref_src=twsrc%5Etfw">Tweets by TR_808_Beats</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/808_drum_beats?ref_src=twsrc%5Etfw">Tweets by 808 Drum Pad & Sequencer</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
