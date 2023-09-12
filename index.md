@@ -6,7 +6,7 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(08/05/2023) TR-808 Drum Pads & Sequencer was updated to version 97!
+(09/10/2023) TR-808 Drum Pads & Sequencer was updated to version 98!
 
 my Apps quotes
 
