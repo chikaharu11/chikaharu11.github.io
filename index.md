@@ -6,15 +6,17 @@ my Apps -> <a href='https://play.google.com/store/apps/dev?id=628265505875185323
 
 current status
 
-(09/10/2023) 808 Drum Pad & Sequencer was updated to version 98!
+(11/09/2023) 808 Drum Pad & Sequencer was updated to version 101!
 
-my Apps quotes
+images and samples used in my apps
 
 https://www.sozaiyakoaki.com
 
 https://icooon-mono.com
 
 https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download
+
+https://www.goldbaby.co.nz/index.html
 
 <div>Icons made by <a href="" title="Royyan Wijaya">Royyan Wijaya</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
